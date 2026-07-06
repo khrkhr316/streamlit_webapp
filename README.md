@@ -118,9 +118,18 @@ streamlit run public_app.py
 
 > 실행 화면 이미지를 추가하면 프로젝트 이해도가 더욱 높아집니다.
 
-* 메인 화면
-* 서울시 지도
-* 미세먼지 그래프
+### 메인 화면
+
+![메인](images/main.png)
+
+### 그래프
+
+![그래프](images/bar.png)
+![그래프](images/line.png)
+
+### 지도
+
+![지도](images/map.png)
 
 ---
 
